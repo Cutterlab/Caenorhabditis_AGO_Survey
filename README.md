@@ -9,6 +9,8 @@ Gives the AGO subfamily that all 1213 Argonaute genes were assigned to, for both
 FASTA file of protein sequences for all 1213 Argonaute genes. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to.  
 ### 1213_Argonaute_protein_alignment_ClustalOmega.txt
 Multiple sequence alignment of all 1213 Argonaute protein sequences in Argonaute_sequences_1213_final_set.fa. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to. 
+### 1213_Argonautes_only_all_domains.tsv
+InterProScan output giving the locations of all detected functional domains in all 1213 Argonaute protein sequences (excluding proteins for which no domains could be detected).
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs.fa
 GUIDANCE-filtered DNA coding sequence alignment of all 58 CSR-1 orthologs. 
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs_species_tree.fa
