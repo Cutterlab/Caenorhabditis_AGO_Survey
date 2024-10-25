@@ -9,6 +9,8 @@ Gives the AGO subfamily that all 1213 Argonaute genes were assigned to, for both
 FASTA file of protein sequences for all 1213 Argonaute genes. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to.  
 ### 1213_Argonaute_protein_alignment_ClustalOmega.txt
 Multiple sequence alignment of all 1213 Argonaute protein sequences in Argonaute_sequences_1213_final_set.fa. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to. 
+### annotated_ML_tree_1213_Argonaute_protein_alignment_ClustalOmega.nex
+Unrooted gene tree of all 1213 Argonaute protein sequences. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to. 
 ### protein_percent_identities_1213_Argonautes_ClustalOmega.tsv
 1213 x 1213 matrix of the percent identities between all pairs of Argonaute protein sequences from Clustal Omega. Values of NA (cases where the sequence of an Argonaute only aligns to gaps in the other Argonaute) were set to 0. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to.
 ### 1213_Argonautes_only_all_domains.tsv
