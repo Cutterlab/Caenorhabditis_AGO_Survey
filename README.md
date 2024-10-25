@@ -1,5 +1,5 @@
 # Dynamic birth and death of Argonaute gene family functional repertoire across <i>Caenorhabditis</i> nematodes
-Supplementary data files associated with Fusca et al. 2024. Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6).
+Supplementary data files associated with Fusca et al. 2024. Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6). "<i>C.</i> sp. 24" refers to <i>C. agridulce</i>.
 ## Description of files
 ### N0.tsv
 Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species analyzed.
