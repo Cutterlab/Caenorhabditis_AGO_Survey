@@ -17,5 +17,7 @@ GUIDANCE-filtered DNA coding sequence alignment of all 58 CSR-1 orthologs.
 GUIDANCE-filtered DNA coding sequence alignment of 1 representative CSR-1 ortholog from each of the 51 analyzed species.
 ### panamensis AGO Structures
 Top level of the directory contains PDB files of predicted protein structures for the 7 divergent <i>C. panamensis</i> Argonautes (CSP28.g16020.t1, CSP28.g16021.t1, CSP28.g16024.t1, CSP28.g16025.t1, CSP28.g16026.t1, CSP28.g16027.t1, and CSP28.g8935.t1), as well as <i>C. panamensis</i> CSR-1 (CSP28.g5632.t1). Subdirectories contain the full output from each run of ColabFold used to predict these structures.
+### Caenorhabditis_Ruby_motif_observed_expected_counts.tsv
+Number of observed and expected instances of the Ruby motif in the non-coding genome of each species, along with the size of the non-coding genome as well as the presence/absence of PRG-1.
 ### full_names_205_orthologs_gamma_priors_relaxed_clock_200_million_steps_species_tree.tree
 Dated species tree of 51 <i>Caenorhabditis</i> species used for phylogenetic analyses. Branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations).
