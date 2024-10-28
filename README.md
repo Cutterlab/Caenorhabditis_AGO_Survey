@@ -2,7 +2,7 @@
 Supplementary data files associated with Fusca et al. 2024. Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6). "<i>C.</i> sp. 24" refers to <i>C. agridulce</i>.
 ## Description of files
 ### N0.tsv
-Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species analyzed.
+Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species included in our Argonaute survey.
 ### AGO Subfamily Assignments.xlsx
 Gives the AGO subfamily that all 1213 Argonaute genes were assigned to, for both Argonautes detected by OrthoFinder and Argonautes that were missed by OrthoFinder (yet still have Argonaute functional domains).
 ### Argonaute_sequences_1213_final_set.fa
