@@ -7,7 +7,7 @@ Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species
 Gives the AGO subfamily that all 1213 Argonaute genes were assigned to, for both Argonautes detected by OrthoFinder and Argonautes that were missed by OrthoFinder (yet still have Argonaute functional domains).
 ### Argonaute_sequences_1213_final_set.fa
 FASTA file of protein sequences for all 1213 Argonaute genes. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to.  
-### 1213_Argonaute_protein_alignment_ClustalOmega.txt
+### 1213_Argonaute_protein_alignment_ClustalOmega.fa
 Multiple sequence alignment of all 1213 Argonaute protein sequences in Argonaute_sequences_1213_final_set.fa. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to. 
 ### annotated_ML_tree_1213_Argonaute_protein_alignment_ClustalOmega.nex
 Unrooted gene tree of all 1213 Argonaute protein sequences. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to. 
