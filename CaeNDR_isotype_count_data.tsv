@@ -1,0 +1,145 @@
+Gene	Species	Variant_Type	Num_Isotypes_At_Least_1_Variant
+ALG-1	C. elegans	Highly deleterious	0
+ALG-2	C. elegans	Highly deleterious	31
+ALG-3	C. elegans	Highly deleterious	2
+ALG-4	C. elegans	Highly deleterious	4
+ALG-5	C. elegans	Highly deleterious	0
+CSR-1	C. elegans	Highly deleterious	0
+ERGO-1	C. elegans	Highly deleterious	17
+PRG-1	C. elegans	Highly deleterious	0
+RDE-1	C. elegans	Highly deleterious	0
+VSRA-1	C. elegans	Highly deleterious	45
+WAGO-1	C. elegans	Highly deleterious	0
+WAGO-3	C. elegans	Highly deleterious	0
+WAGO-4	C. elegans	Highly deleterious	1
+WAGO-5	C. elegans	Highly deleterious	68
+WAGO-6	C. elegans	Highly deleterious	3
+WAGO-7	C. elegans	Highly deleterious	3
+WAGO-8	C. elegans	Highly deleterious	4
+WAGO-9	C. elegans	Highly deleterious	5
+WAGO-10	C. elegans	Highly deleterious	7
+WAGO-12	C. elegans	Highly deleterious	0
+ALG-1	C. elegans	Non-synonymous	16
+ALG-2	C. elegans	Non-synonymous	91
+ALG-3	C. elegans	Non-synonymous	93
+ALG-4	C. elegans	Non-synonymous	244
+ALG-5	C. elegans	Non-synonymous	91
+CSR-1	C. elegans	Non-synonymous	16
+ERGO-1	C. elegans	Non-synonymous	233
+PRG-1	C. elegans	Non-synonymous	144
+RDE-1	C. elegans	Non-synonymous	172
+VSRA-1	C. elegans	Non-synonymous	143
+WAGO-1	C. elegans	Non-synonymous	98
+WAGO-3	C. elegans	Non-synonymous	69
+WAGO-4	C. elegans	Non-synonymous	229
+WAGO-5	C. elegans	Non-synonymous	146
+WAGO-6	C. elegans	Non-synonymous	96
+WAGO-7	C. elegans	Non-synonymous	219
+WAGO-8	C. elegans	Non-synonymous	52
+WAGO-9	C. elegans	Non-synonymous	104
+WAGO-10	C. elegans	Non-synonymous	319
+WAGO-12	C. elegans	Non-synonymous	286
+ALG-1	C. elegans	Synonymous	343
+ALG-2	C. elegans	Synonymous	318
+ALG-3	C. elegans	Synonymous	290
+ALG-4	C. elegans	Synonymous	233
+ALG-5	C. elegans	Synonymous	24
+CSR-1	C. elegans	Synonymous	343
+ERGO-1	C. elegans	Synonymous	327
+PRG-1	C. elegans	Synonymous	142
+RDE-1	C. elegans	Synonymous	188
+VSRA-1	C. elegans	Synonymous	124
+WAGO-1	C. elegans	Synonymous	58
+WAGO-3	C. elegans	Synonymous	132
+WAGO-4	C. elegans	Synonymous	484
+WAGO-5	C. elegans	Synonymous	67
+WAGO-6	C. elegans	Synonymous	316
+WAGO-7	C. elegans	Synonymous	166
+WAGO-8	C. elegans	Synonymous	102
+WAGO-9	C. elegans	Synonymous	79
+WAGO-10	C. elegans	Synonymous	215
+WAGO-12	C. elegans	Synonymous	293
+RDE-1 (QX1410.3584)	C. briggsae	Highly deleterious	2
+ALG-1/2 (QX1410.11114)	C. briggsae	Highly deleterious	0
+ALG-1/2 (QX1410.18391)	C. briggsae	Highly deleterious	0
+ALG-3/4 (QX1410.13516)	C. briggsae	Highly deleterious	0
+ALG-5 (QX1410.5975)	C. briggsae	Highly deleterious	2
+ERGO-1 (QX1410.14379)	C. briggsae	Highly deleterious	26
+ERGO-1 (QX1410.15084)	C. briggsae	Highly deleterious	479
+ERGO-1 (QX1410.15116)	C. briggsae	Highly deleterious	70
+ERGO-1 (QX1410.1522)	C. briggsae	Highly deleterious	0
+ERGO-1 (QX1410.8228)	C. briggsae	Highly deleterious	11
+PRG-1 (QX1410.6374)	C. briggsae	Highly deleterious	0
+CSR-1 (QX1410.21212)	C. briggsae	Highly deleterious	0
+VSRA-1 (QX1410.5997)	C. briggsae	Highly deleterious	12
+WAGO-1/3/4/5 (QX1410.2922)	C. briggsae	Highly deleterious	147
+WAGO-1/3/4/5 (QX1410.2923)	C. briggsae	Highly deleterious	86
+WAGO-1/3/4/5 (QX1410.6160)	C. briggsae	Highly deleterious	1
+WAGO-1/3/4/5 (QX1410.6817)	C. briggsae	Highly deleterious	0
+WAGO-6/7/8 (QX1410.19963)	C. briggsae	Highly deleterious	81
+WAGO-6/7/8 (QX1410.1678)	C. briggsae	Highly deleterious	4
+WAGO-6/7/8 (QX1410.6499)	C. briggsae	Highly deleterious	7
+WAGO-6/7/8 (QX1410.16486)	C. briggsae	Highly deleterious	205
+WAGO-6/7/8 (QX1410.3095)	C. briggsae	Highly deleterious	207
+WAGO-6/7/8 (QX1410.19965)	C. briggsae	Highly deleterious	608
+WAGO-9/10/12 (QX1410.1122)	C. briggsae	Highly deleterious	6
+WAGO-9/10/12 (QX1410.15544)	C. briggsae	Highly deleterious	76
+WAGO-9/10/12 (QX1410.8720)	C. briggsae	Highly deleterious	31
+WAGO-9/10/12 (QX1410.10797)	C. briggsae	Highly deleterious	15
+WAGO-9/10/12 (QX1410.14888)	C. briggsae	Highly deleterious	2
+RDE-1 (QX1410.3584)	C. briggsae	Non-synonymous	250
+ALG-1/2 (QX1410.11114)	C. briggsae	Non-synonymous	152
+ALG-1/2 (QX1410.18391)	C. briggsae	Non-synonymous	94
+ALG-3/4 (QX1410.13516)	C. briggsae	Non-synonymous	171
+ALG-5 (QX1410.5975)	C. briggsae	Non-synonymous	238
+ERGO-1 (QX1410.14379)	C. briggsae	Non-synonymous	214
+ERGO-1 (QX1410.15084)	C. briggsae	Non-synonymous	460
+ERGO-1 (QX1410.15116)	C. briggsae	Non-synonymous	625
+ERGO-1 (QX1410.1522)	C. briggsae	Non-synonymous	556
+ERGO-1 (QX1410.8228)	C. briggsae	Non-synonymous	613
+PRG-1 (QX1410.6374)	C. briggsae	Non-synonymous	214
+CSR-1 (QX1410.21212)	C. briggsae	Non-synonymous	103
+VSRA-1 (QX1410.5997)	C. briggsae	Non-synonymous	304
+WAGO-1/3/4/5 (QX1410.2922)	C. briggsae	Non-synonymous	386
+WAGO-1/3/4/5 (QX1410.2923)	C. briggsae	Non-synonymous	193
+WAGO-1/3/4/5 (QX1410.6160)	C. briggsae	Non-synonymous	275
+WAGO-1/3/4/5 (QX1410.6817)	C. briggsae	Non-synonymous	227
+WAGO-6/7/8 (QX1410.19963)	C. briggsae	Non-synonymous	613
+WAGO-6/7/8 (QX1410.1678)	C. briggsae	Non-synonymous	222
+WAGO-6/7/8 (QX1410.6499)	C. briggsae	Non-synonymous	263
+WAGO-6/7/8 (QX1410.16486)	C. briggsae	Non-synonymous	323
+WAGO-6/7/8 (QX1410.3095)	C. briggsae	Non-synonymous	292
+WAGO-6/7/8 (QX1410.19965)	C. briggsae	Non-synonymous	611
+WAGO-9/10/12 (QX1410.1122)	C. briggsae	Non-synonymous	640
+WAGO-9/10/12 (QX1410.15544)	C. briggsae	Non-synonymous	570
+WAGO-9/10/12 (QX1410.8720)	C. briggsae	Non-synonymous	272
+WAGO-9/10/12 (QX1410.10797)	C. briggsae	Non-synonymous	555
+WAGO-9/10/12 (QX1410.14888)	C. briggsae	Non-synonymous	69
+RDE-1 (QX1410.3584)	C. briggsae	Synonymous	184
+ALG-1/2 (QX1410.11114)	C. briggsae	Synonymous	636
+ALG-1/2 (QX1410.18391)	C. briggsae	Synonymous	590
+ALG-3/4 (QX1410.13516)	C. briggsae	Synonymous	133
+ALG-5 (QX1410.5975)	C. briggsae	Synonymous	181
+ERGO-1 (QX1410.14379)	C. briggsae	Synonymous	93
+ERGO-1 (QX1410.15084)	C. briggsae	Synonymous	285
+ERGO-1 (QX1410.15116)	C. briggsae	Synonymous	404
+ERGO-1 (QX1410.1522)	C. briggsae	Synonymous	505
+ERGO-1 (QX1410.8228)	C. briggsae	Synonymous	354
+PRG-1 (QX1410.6374)	C. briggsae	Synonymous	222
+CSR-1 (QX1410.21212)	C. briggsae	Synonymous	240
+VSRA-1 (QX1410.5997)	C. briggsae	Synonymous	639
+WAGO-1/3/4/5 (QX1410.2922)	C. briggsae	Synonymous	273
+WAGO-1/3/4/5 (QX1410.2923)	C. briggsae	Synonymous	337
+WAGO-1/3/4/5 (QX1410.6160)	C. briggsae	Synonymous	226
+WAGO-1/3/4/5 (QX1410.6817)	C. briggsae	Synonymous	264
+WAGO-6/7/8 (QX1410.19963)	C. briggsae	Synonymous	595
+WAGO-6/7/8 (QX1410.1678)	C. briggsae	Synonymous	231
+WAGO-6/7/8 (QX1410.6499)	C. briggsae	Synonymous	221
+WAGO-6/7/8 (QX1410.16486)	C. briggsae	Synonymous	74
+WAGO-6/7/8 (QX1410.3095)	C. briggsae	Synonymous	534
+WAGO-6/7/8 (QX1410.19965)	C. briggsae	Synonymous	614
+WAGO-9/10/12 (QX1410.1122)	C. briggsae	Synonymous	640
+WAGO-9/10/12 (QX1410.15544)	C. briggsae	Synonymous	339
+WAGO-9/10/12 (QX1410.8720)	C. briggsae	Synonymous	225
+WAGO-9/10/12 (QX1410.10797)	C. briggsae	Synonymous	473
+WAGO-9/10/12 (QX1410.14888)	C. briggsae	Synonymous	96
