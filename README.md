@@ -17,6 +17,8 @@ Unrooted gene tree of all 1213 Argonaute protein sequences. The identifier begin
 InterProScan output giving the locations of all detected functional domains in all 1213 Argonaute protein sequences (excluding proteins for which no domains could be detected).
 ### CaeNDR_isotype_count_data.tsv
 For Argonaute genes in <i>C. elegans</i> and <i>C. briggsae</i>, gives the number of unique CaeNDR isotypes carrying at least 1 variant of a given type, for 3 types of variants (synonymous, non-synonymous, and highly-deleterious, where highly-deleterious variants are those that likely result in pseudogenes). Note that the <i>C. briggsae</i> genome assembly used by CaeNDR differs from the assembly used in our Argonaute survey (see Supplementary Methods for details).
+### CaeNDR_variant_site_count_data.tsv
+For Argonaute genes in <i>C. elegans</i> and <i>C. briggsae</i>, gives the number of different sites carrying variants of a given type (either synonymous or non-synonymous), as well as the total number of sites of that type in the gene and Watterson's θ. Note that the <i>C. briggsae</i> genome assembly used by CaeNDR differs from the assembly used in our Argonaute survey (see Supplementary Methods for details).
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs.fa
 GUIDANCE-filtered DNA coding sequence alignment of all 58 CSR-1 orthologs. 
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs_species_tree.fa
