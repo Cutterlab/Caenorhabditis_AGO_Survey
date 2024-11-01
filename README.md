@@ -15,6 +15,8 @@ Unrooted gene tree of all 1213 Argonaute protein sequences. The identifier begin
 1213 x 1213 matrix of the percent identities between all pairs of Argonaute protein sequences. Values of NA (cases where the sequence of an Argonaute only aligns to gaps in the other Argonaute) were set to 0. The identifier beginning with "OG" at the end of each gene name gives the orthogroup that this gene belongs to.
 ### 1213_Argonautes_only_all_domains.tsv
 InterProScan output giving the locations of all detected functional domains in all 1213 Argonaute protein sequences (excluding proteins for which no domains could be detected).
+### CaeNDR_isotype_count_data.tsv
+For Argonaute genes in <i>C. elegans</i> and <i>C. briggsae</i>, gives the number of unique CaeNDR isotypes carrying at least 1 variant of a given type, for 3 types of variants (synonymous, non-synonymous, and highly-deleterious, where highly-deleterious variants are those that likely result in pseudogenes). Note that the <i>C. briggsae</i> genome assembly used by CaeNDR differs from the assembly used in our Argonaute survey (see Supplementary Methods for details).
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs.fa
 GUIDANCE-filtered DNA coding sequence alignment of all 58 CSR-1 orthologs. 
 ### CSR1_GUIDANCE_aligned_trimmed_good_orthologs_species_tree.fa
