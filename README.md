@@ -1,6 +1,8 @@
 # Dynamic birth and death of Argonaute gene family functional repertoire across <i>Caenorhabditis</i> nematodes
 Supplementary data files associated with [Fusca et al. 2024](https://doi.org/10.1101/2024.10.27.620551). Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6). "<i>C.</i> sp. 24" refers to <i>C. agridulce</i> throughout.
 ## Description of files
+### full_names_205_orthologs_gamma_priors_relaxed_clock_200_million_steps_species_tree.tree
+Dated species tree of 51 <i>Caenorhabditis</i> species used for phylogenetic analyses. Branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations).
 ### N0.tsv
 Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species included in our Argonaute survey.
 ### AGO Subfamily Assignments.xlsx
@@ -33,8 +35,6 @@ Top level of the directory contains PDB files of predicted protein structures fo
 R script for calculating the expected number of Ruby motifs in the non-coding genome of a single species, based on non-coding genome size and dinucleotide content. The values used in this example come from <i>C. portoensis</i>.
 ### Caenorhabditis_Ruby_motif_observed_expected_counts.tsv
 Number of observed and expected instances of the Ruby motif in the non-coding genome of each species, along with the size of the non-coding genome as well as the presence/absence of PRG-1.
-### full_names_205_orthologs_gamma_priors_relaxed_clock_200_million_steps_species_tree.tree
-Dated species tree of 51 <i>Caenorhabditis</i> species used for phylogenetic analyses. Branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations).
 ### CAFE_results_remove_monodelphis_parvicauda.tsv
 P-values and False Discovery Rates from CAFE tests, after excluding <i>C. monodelphis</i> and <i>C. parvicauda</i> (as CAFE only tests gene families that are inferred to be present at the root of the species tree, and these early-diverging species lack copies of ALG-5 and ERGO-1 respectively). The 11 Argonaute subfamilies are referred to using their full names rather than their orthogroup identifiers.
 ### CAFE_results_remove_monodelphis_parvicauda_and_5_worst_genomes.tsv
