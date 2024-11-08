@@ -3,7 +3,7 @@ Supplementary data files associated with [Fusca et al. 2024](https://doi.org/10.
 ## Description of files
 ### full_names_205_orthologs_gamma_priors_relaxed_clock_200_million_steps_species_tree.tree
 Dated species tree of 51 <i>Caenorhabditis</i> species used for phylogenetic analyses. Branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations).
-### N0.tsv
+### Orthogroups.tsv
 Orthogroup assignments from OrthoFinder for all 51 <i>Caenorhabditis</i> species included in our Argonaute survey.
 ### AGO Subfamily Assignments.xlsx
 Gives the AGO subfamily that all 1213 Argonaute genes were assigned to, for both Argonautes detected by OrthoFinder and Argonautes that were missed by OrthoFinder (yet still have Argonaute functional domains).
