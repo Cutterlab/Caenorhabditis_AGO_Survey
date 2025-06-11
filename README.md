@@ -1,5 +1,5 @@
 # Dynamic birth and death of Argonaute gene family functional repertoire across <i>Caenorhabditis</i> nematodes
-Supplementary data files associated with [Fusca et al. 2024](https://doi.org/10.1101/2024.10.27.620551). Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6). "<i>C.</i> sp. 24" refers to <i>C. agridulce</i> throughout.
+Supplementary data files associated with [Fusca et al. 2025](https://doi.org/10.1093/gbe/evaf106). Note that for some species, we appended a 5-letter species identifier to the beginning of all gene names for ease of analysis (e.g. D2030.6 in <i>C. elegans</i> is referred to as CELEG.D2030.6). "<i>C.</i> sp. 24" refers to <i>C. agridulce</i> throughout.
 ## Description of files
 ### full_names_205_orthologs_gamma_priors_relaxed_clock_200_million_steps_species_tree.tree
 Dated species tree of 51 <i>Caenorhabditis</i> species used for phylogenetic analyses. Branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations).
